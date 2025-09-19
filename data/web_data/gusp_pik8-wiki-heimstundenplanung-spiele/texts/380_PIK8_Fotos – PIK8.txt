@@ -1,0 +1,73 @@
+Titel: PIK8:Fotos – PIK8
+URL: http://www.pik8.at/wiki/PIK8:Fotos/
+Zeitpunkt: 2025-09-19 23:43:08
+==================================================
+
+Dieser Artikel erklärt, wie Fotos und Dateien zur PIK8 hochgeladen werden können. Inhaltsverzeichnis 1 Hochladen 2 Einbinden in Artikel 2.1 Einbetten (Fotos) 2.2 In Galerie einfügen (Fotos) 2.3 Als Link einfügen (Dateien) Hochladen Zum Hochladen benötigt man - wie für jede Aktion - einen Benutzernamen; siehe PIK8:Mitarbeit . Nach dem Einloggen kann man Dateien über den Menupunkt Spezial:Hochladen hochladen. Diese Seite findet man auch im Menu links unter "Werkzeuge" -> "Datei hochladen". Hochladen-Maske Auf der Maske "Datei Hochladen" ist zunächst die hochzuladende Datei aus dem eigenen Dateisystem auszuwählen (Button "Datei auswählen"). Dieser Datei kann im Zielsystem (PIK8) auch ein neuer Name gegeben werden - dabei ist auf die korrekte Dateiendung (zum Beispiel ".jpg", ".pdf") zu achten. Weiters sollte eine Beschreibung der Datei in der Textbox "Beschreibung/Quelle" eingetragen werden. ACHTUNG - (Urheber)rechte! Bitte lade nur Dateien hoch, für die du das Urheberrecht hast - also selber aufgenommene Fotos, selber erstellte Heimstunden-Beschreibungen, etc. Auch weitere Rechte sind hierbei abzuklären, etwa das "Recht am eigenen Bild". Einbinden in Artikel Jede hochgeladene Datei kann anschließend in ein oder mehr Artikel eingebunden werden. Dazu bestehen mehrere Möglichkeiten: Einbetten (Fotos) Hochgeladene Dateien können direkt in Artikel eingebettet werden. Dies eignet sich insbesondere für Fotos. Dazu ist der Dateiname mit dem Zusatz "Datei:" in doppelte eckige Klammern, ähnlich den "Links" im Wiki, einzutragen: [[Datei:Beispieldatei.jpg]] Zusätzlich können weitere Parameter angegeben werden, die mittels senkrechtem Strich "|" abgetrennt sind. Typischerweise wird das Argument "thumbs" gesetzt, um ein Thumbnailbild (verkleinerte Vorschau) zu erzeugen, sowie ein Beschreibungstext beigefügt: [[Datei:Beispieldatei.jpg|thumb|Dieser Text steht unter dem Bild]] In Galerie einfügen (Fotos) Aus mehreren Bildern kann auch automatisiert eine Galerie in einen Artikel eingefügt werden. Dies geht mit folgender Syntax: <gallery> Datei:Dateiname1.jpg|Bildunterschrift des ersten Bildes Datei:Dateiname2.jpg|Bildunterschrift des zweiten Bildes Datei:Dateiname3.jpg|Bildunterschrift des dritten Bildes </gallery> Als Link einfügen (Dateien) Um auf Dateien zu verlinken, ist ein Doppelpunkt vor den "Datei:" Zusatz im Link zu setzen: [[:Datei:Beispieldatei.jpg|Beschreibungstext]] Daraus wird ein Link auf die Datei erzeugt, die Datei jedoch NICHT im Artikel eingebettet. Dies eignet sich insbesondere für Datendateien, die ohnehin nicht im Artikel angezeigt werden könnten - dies geht nur für Bilder.
+
+LINKS:
+----------
+[Navigation|http://www.pik8.at/wiki/PIK8:Fotos/]
+[Suche|http://www.pik8.at/wiki/PIK8:Fotos/]
+[1Hochladen|http://www.pik8.at/wiki/PIK8:Fotos/]
+[2Einbinden in Artikel|http://www.pik8.at/wiki/PIK8:Fotos/]
+[2.1Einbetten (Fotos)|http://www.pik8.at/wiki/PIK8:Fotos/]
+[2.2In Galerie einfügen (Fotos)|http://www.pik8.at/wiki/PIK8:Fotos/]
+[2.3Als Link einfügen (Dateien)|http://www.pik8.at/wiki/PIK8:Fotos/]
+[PIK8:Mitarbeit|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[Spezial:Hochladen|http://www.pik8.at/wiki/Spezial:Hochladen/]
+[http://www.pik8.at/w/index.php?title=PIK8:Fotos&oldid=1873|http://www.pik8.at/w/index.php?title=PIK8:Fotos&oldid=1873]
+[Kategorie|http://www.pik8.at/wiki/Spezial:Kategorien/]
+[Pik8|http://www.pik8.at/wiki/Kategorie:Pik8/]
+[Benutzerkonto erstellen|http://www.pik8.at/w/index.php?title=Spezial:Anmelden&returnto=PIK8%3AFotos&type=signup]
+[Anmelden|http://www.pik8.at/w/index.php?title=Spezial:Anmelden&returnto=PIK8%3AFotos]
+[Projektseite|http://www.pik8.at/wiki/PIK8:Fotos/]
+[Diskussion|http://www.pik8.at/w/index.php?title=PIK8_Diskussion:Fotos&action=edit&redlink=1]
+[#|http://www.pik8.at/wiki/PIK8:Fotos/]
+[Lesen|http://www.pik8.at/wiki/PIK8:Fotos/]
+[Quelltext anzeigen|http://www.pik8.at/w/index.php?title=PIK8:Fotos&action=edit]
+[Versionsgeschichte|http://www.pik8.at/w/index.php?title=PIK8:Fotos&action=history]
+[#|http://www.pik8.at/wiki/PIK8:Fotos/]
+[/wiki/Hauptseite/|http://www.pik8.at/wiki/Hauptseite/]
+[Hauptseite|http://www.pik8.at/wiki/Hauptseite/]
+[Letzte Änderungen|http://www.pik8.at/wiki/Spezial:Letzte_%C3%84nderungen/]
+[Zufällige Seite|http://www.pik8.at/wiki/Spezial:Zuf%C3%A4llige_Seite/]
+[Heimstunde|http://www.pik8.at/wiki/Heimstunde/]
+[Abenteuer|http://www.pik8.at/wiki/Abenteuer/]
+[Wettbewerb|http://www.pik8.at/wiki/Wettbewerb/]
+[Programmidee|http://www.pik8.at/wiki/Programmidee/]
+[Spirituelles Leben|http://www.pik8.at/wiki/Spirituelles_Leben/]
+[Verantwortungsbewusstes Leben in der Gemeinschaft|http://www.pik8.at/wiki/Verantwortungsbewusstes_Leben_in_der_Gemeinschaft/]
+[Weltweite Verbundenheit|http://www.pik8.at/wiki/Weltweite_Verbundenheit/]
+[Kritisches Auseinandersetzen mit sich selbst und der Umwelt|http://www.pik8.at/wiki/Kritisches_Auseinandersetzen_mit_sich_selbst_und_der_Umwelt/]
+[Einfaches und naturverbundenes Leben|http://www.pik8.at/wiki/Einfaches_und_naturverbundenes_Leben/]
+[Bereitschaft zum Abenteuer des Lebens|http://www.pik8.at/wiki/Bereitschaft_zum_Abenteuer_des_Lebens/]
+[Schöpferisches Tun|http://www.pik8.at/wiki/Sch%C3%B6pferisches_Tun/]
+[Körperbewusstsein und gesundes Leben|http://www.pik8.at/wiki/K%C3%B6rperbewusstsein_und_gesundes_Leben/]
+[Links auf diese Seite|http://www.pik8.at/wiki/Spezial:Linkliste/PIK8:Fotos/]
+[Änderungen an verlinkten Seiten|http://www.pik8.at/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/PIK8:Fotos/]
+[Spezialseiten|http://www.pik8.at/wiki/Spezial:Spezialseiten/]
+[Druckversion|http://www.pik8.at/w/index.php?title=PIK8:Fotos&printable=yes]
+[Permanenter Link|http://www.pik8.at/w/index.php?title=PIK8:Fotos&oldid=1873]
+[Seiteninformationen|http://www.pik8.at/w/index.php?title=PIK8:Fotos&action=info]
+[Creative Commons „Namensnennung, Weitergabe unter gleichen Bedingungen“|http://creativecommons.org/licenses/by-sa/3.0/]
+[Datenschutz|http://www.pik8.at/wiki/PIK8:Datenschutz/]
+[Über PIK8|http://www.pik8.at/wiki/PIK8:%C3%9Cber_PIK8/]
+[Impressum|http://www.pik8.at/wiki/PIK8:Impressum/]
+[http://creativecommons.org/licenses/by-sa/3.0/|http://creativecommons.org/licenses/by-sa/3.0/]
+[//www.mediawiki.org/|http://www.mediawiki.org/]
+
+BILDER-VERZEICHNIS:
+--------------------
+Datei: /media/psf/development/web-crawler/collection/gusp_pik8-wiki-heimstundenplanung-spiele/images/cc-by-sa.png
+URL: http://www.pik8.at/w/skins/common/images/cc-by-sa.png
+Alt-Text: Creative Commons „Namensnennung, Weitergabe unter gleichen Bedingungen“
+
+Datei: /media/psf/development/web-crawler/collection/gusp_pik8-wiki-heimstundenplanung-spiele/images/poweredby_mediawiki_88x31.png
+URL: http://www.pik8.at/w/skins/common/images/poweredby_mediawiki_88x31.png
+Alt-Text: Powered by MediaWiki
+
+Datei: /media/psf/development/web-crawler/collection/gusp_pik8-wiki-heimstundenplanung-spiele/images/piwik.php
+URL: http://www.pik8.at/piwik/piwik.php?idsite=1
+
+Quelle: http://www.pik8.at/wiki/PIK8:Fotos/

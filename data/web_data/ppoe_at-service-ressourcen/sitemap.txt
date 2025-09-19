@@ -1,0 +1,25 @@
+SITEMAP für https://ppoe.at/service/ressourcen
+==================================================
+
+service/
+  kooperationen/
+    → https://ppoe.at/service/kooperationen/
+  kooperationen-netzwerke/
+    → https://ppoe.at/service/kooperationen-netzwerke/
+  pfadfinderische-angebote/
+    → https://ppoe.at/service/pfadfinderische-angebote/
+  ressourcen/
+    → https://ppoe.at/service/ressourcen/
+    design/
+      bestelle-dein-gruppenlogo-im-neuen-ppoe-design/
+        → https://ppoe.at/service/ressourcen/design/bestelle-dein-gruppenlogo-im-neuen-ppoe-design
+
+
+Alle URLs:
+--------------------
+https://ppoe.at/service/ressourcen/
+https://ppoe.at/service/ressourcen/design/bestelle-dein-gruppenlogo-im-neuen-ppoe-design
+https://ppoe.at/service/pfadfinderische-angebote/
+https://ppoe.at/service/kooperationen-netzwerke/
+https://ppoe.at/service/kooperationen/
+http://ppoe.at/service/kooperationen/

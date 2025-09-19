@@ -1,0 +1,81 @@
+Titel: PIK8:Mitarbeit – PIK8
+URL: http://www.pik8.at/wiki/PIK8:Mitarbeit/
+Zeitpunkt: 2025-09-19 21:26:00
+==================================================
+
+Auf dieser Seite wird kurz beschrieben, wie du zur Pik8 beitragen kannst. Inhaltsverzeichnis 1 Was ist ein Wiki 2 Wie funktioniert die Pik8 3 Was kann ich dazu beitragen 3.1 Benutzername anlegen 3.2 Bearbeiten eines bestehenden Artikels 3.3 Neuen Artikel anlegen 3.4 Welche Formatierungskriterien muss ich beachten 4 Ich möchte beitragen, möchte aber keinen Artikel editieren 5 Wo finde ich weitere Hilfe Was ist ein Wiki Wiki kommt aus dem Hawaiianischen und bedeutet schnell . Ein Wiki-System kann schnell und einfach bearbeitet werden. Es ist ein typisches Werkzeug des Web 2.0 , bei dem alle BenutzerInnen etwas zur Homepage beitragen können, anstatt nur den Inhalt zu konsumieren. Das bekannteste Wiki derzeit ist die freie Online-Enzyklopädie Wikipedia . Wie funktioniert die Pik8 In der Pik8 sind Artikel (und Bilder) für die Pfadfinder-Arbeit mit Guides und Spähern (10-13 Jahre) in Österreich eingetragen. LeserInnen eines Artikels können diesen dabei auch bearbeiten oder neue Artikel anlegen. Jeder Artikel hat oben eine Menüleiste. Die beiden ersten Einträge sind "Seite" und "Diskussion". Unter "Seite" befindet sich der eigentliche Artikel, unter "Diskussion" können BenutzerInnen über den Artikel diskutieren oder etwa Verbesserungen des Artikels vorschlagen. Was kann ich dazu beitragen BenutzerInnen, die über einen Benutzernamen verfügen, können Artikel bearbeiten, neue Artikel anlegen, und Dateien (Fotos) hochladen. Benutzername anlegen Um in diesem Wiki editieren zu können, ist eine Registrierung notwendig. Wikis werden leider regelmäßig, teilweise automatisiert, mit Spam gefüllt. Dies kann effektiv nur verhindert werden, indem anonymes Editieren verboten wird. Als angemeldete/r BenutzerIn kann man darüber hinaus leichter mit anderen BenutzerInnen kommunizieren und in der Liste der Änderungen der Artikel scheint der gewählte Benutzername auf. Die Angabe eines Realnamens ist jedoch weiterhin nicht erforderlich! Wie lege ich einen Benutzernamen an Einen neuen Benutzernamen kann man auf der Seite Spezial:Anmelden erzeugen ("PIK8 beitreten"). Direktlink zum Erstellen eines Benutzernamens . Bearbeiten eines bestehenden Artikels Jeder Artikel kann durch einen Klick auf den Menupunkt "Bearbeiten" im Menu ganz oben auf der Seite bearbeitet werden. Änderungen werden nach dem Speichern sofort sichtbar. Aber keine Angst: Du kannst nichts kaputt machen - im schlimmsten Fall können ältere Versionen der Artikel problemlos wiederhergestellt werden. Die Beiträge von BenutzerInnen können einfache Korrekturen in einer Beschreibung sein, etwa Rechtschreibfehler die korrigiert werden, es es können neue Abschnitte hinzugefügt, Links eingetragen, oder Fotos beigesteuert werden. Neuen Artikel anlegen Jeder Benutzer bzw. jede Benutzerin kann auch neue Artikel anlegen. Dies geht am einfachsten, indem nach dem exakten Artikelnamen gesucht wird (Suchbox rechts oben). Im Suchergebnis scheint unter anderem ein roter Link auf, der einen Text eingebettet ist: " Erstelle die Seite „ Mein Suchtext “ in diesem Wiki ". Alternativ kann auch auf jeden beliebigen roten Link im Wiki geklickt werden. Rote Links verweisen auf nicht-existente Artikel. Wird auf einen solchen Link geklickt, kann dieser anschließend angelegt werden. Welche Formatierungskriterien muss ich beachten Am besten sucht du dir einen bestehenden, ähnlichen Artikel, und übernimmst wesentliche Formatierungseigenschaften von dort. Ansonsten ist es wichtig(er), dass du den Inhalt gut beschreibst. Jemand aus unserem Admin-Team wird sich anschließend um die korrekte Formatierung kümmern! Ich möchte beitragen, möchte aber keinen Artikel editieren Sende uns deinen Beitrag per Mail, an christian.wirth@ooe.pfadfinder.at - wir kümmern uns darum, dass der Artikel rasch eingetragen wird! Wo finde ich weitere Hilfe Eine komplette Beschreibung der Wiki-Syntax findest du unter http://de.wikipedia.org/wiki/Wikipedia:Hilfe (die Wikipedia und die Pik8 benutzen die gleiche Software, MediaWiki ).
+
+LINKS:
+----------
+[Navigation|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[Suche|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[1Was ist ein Wiki|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[2Wie funktioniert die Pik8|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[3Was kann ich dazu beitragen|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[3.1Benutzername anlegen|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[3.2Bearbeiten eines bestehenden Artikels|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[3.3Neuen Artikel anlegen|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[3.4Welche Formatierungskriterien muss ich beachten|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[4Ich möchte beitragen, möchte aber keinen Artikel editieren|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[5Wo finde ich weitere Hilfe|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[Wikipedia|http://de.wikipedia.org/]
+[Spezial:Anmelden|http://www.pik8.at/wiki/Spezial:Anmelden/]
+[Direktlink zum Erstellen eines Benutzernamens|http://www.pik8.at/w/index.php?title=Spezial:Anmelden&type=signup]
+[Fotos beigesteuert|http://www.pik8.at/wiki/PIK8:Fotos/]
+[Mein Suchtext|http://www.pik8.at/w/index.php?title=Mein_Suchtext&action=edit&redlink=1]
+[http://de.wikipedia.org/wiki/Wikipedia:Hilfe|http://de.wikipedia.org/wiki/Wikipedia:Hilfe]
+[http://www.pik8.at/w/index.php?title=PIK8:Mitarbeit&oldid=3194|http://www.pik8.at/w/index.php?title=PIK8:Mitarbeit&oldid=3194]
+[Kategorie|http://www.pik8.at/wiki/Spezial:Kategorien/]
+[Pik8|http://www.pik8.at/wiki/Kategorie:Pik8/]
+[Benutzerkonto erstellen|http://www.pik8.at/w/index.php?title=Spezial:Anmelden&returnto=PIK8%3AMitarbeit&type=signup]
+[Anmelden|http://www.pik8.at/w/index.php?title=Spezial:Anmelden&returnto=PIK8%3AMitarbeit]
+[Projektseite|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[Diskussion|http://www.pik8.at/wiki/PIK8_Diskussion:Mitarbeit/]
+[#|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[Lesen|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[Quelltext anzeigen|http://www.pik8.at/w/index.php?title=PIK8:Mitarbeit&action=edit]
+[Versionsgeschichte|http://www.pik8.at/w/index.php?title=PIK8:Mitarbeit&action=history]
+[#|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[/wiki/Hauptseite/|http://www.pik8.at/wiki/Hauptseite/]
+[Hauptseite|http://www.pik8.at/wiki/Hauptseite/]
+[Letzte Änderungen|http://www.pik8.at/wiki/Spezial:Letzte_%C3%84nderungen/]
+[Zufällige Seite|http://www.pik8.at/wiki/Spezial:Zuf%C3%A4llige_Seite/]
+[Heimstunde|http://www.pik8.at/wiki/Heimstunde/]
+[Abenteuer|http://www.pik8.at/wiki/Abenteuer/]
+[Wettbewerb|http://www.pik8.at/wiki/Wettbewerb/]
+[Programmidee|http://www.pik8.at/wiki/Programmidee/]
+[Spirituelles Leben|http://www.pik8.at/wiki/Spirituelles_Leben/]
+[Verantwortungsbewusstes Leben in der Gemeinschaft|http://www.pik8.at/wiki/Verantwortungsbewusstes_Leben_in_der_Gemeinschaft/]
+[Weltweite Verbundenheit|http://www.pik8.at/wiki/Weltweite_Verbundenheit/]
+[Kritisches Auseinandersetzen mit sich selbst und der Umwelt|http://www.pik8.at/wiki/Kritisches_Auseinandersetzen_mit_sich_selbst_und_der_Umwelt/]
+[Einfaches und naturverbundenes Leben|http://www.pik8.at/wiki/Einfaches_und_naturverbundenes_Leben/]
+[Bereitschaft zum Abenteuer des Lebens|http://www.pik8.at/wiki/Bereitschaft_zum_Abenteuer_des_Lebens/]
+[Schöpferisches Tun|http://www.pik8.at/wiki/Sch%C3%B6pferisches_Tun/]
+[Körperbewusstsein und gesundes Leben|http://www.pik8.at/wiki/K%C3%B6rperbewusstsein_und_gesundes_Leben/]
+[Links auf diese Seite|http://www.pik8.at/wiki/Spezial:Linkliste/PIK8:Mitarbeit/]
+[Änderungen an verlinkten Seiten|http://www.pik8.at/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/PIK8:Mitarbeit/]
+[Spezialseiten|http://www.pik8.at/wiki/Spezial:Spezialseiten/]
+[Druckversion|http://www.pik8.at/w/index.php?title=PIK8:Mitarbeit&printable=yes]
+[Permanenter Link|http://www.pik8.at/w/index.php?title=PIK8:Mitarbeit&oldid=3194]
+[Seiteninformationen|http://www.pik8.at/w/index.php?title=PIK8:Mitarbeit&action=info]
+[Creative Commons „Namensnennung, Weitergabe unter gleichen Bedingungen“|http://creativecommons.org/licenses/by-sa/3.0/]
+[Datenschutz|http://www.pik8.at/wiki/PIK8:Datenschutz/]
+[Über PIK8|http://www.pik8.at/wiki/PIK8:%C3%9Cber_PIK8/]
+[Impressum|http://www.pik8.at/wiki/PIK8:Impressum/]
+[http://creativecommons.org/licenses/by-sa/3.0/|http://creativecommons.org/licenses/by-sa/3.0/]
+[//www.mediawiki.org/|http://www.mediawiki.org/]
+
+BILDER-VERZEICHNIS:
+--------------------
+Datei: /media/psf/development/web-crawler/collection/gusp_pik8-wiki-heimstundenplanung-spiele/images/cc-by-sa.png
+URL: http://www.pik8.at/w/skins/common/images/cc-by-sa.png
+Alt-Text: Creative Commons „Namensnennung, Weitergabe unter gleichen Bedingungen“
+
+Datei: /media/psf/development/web-crawler/collection/gusp_pik8-wiki-heimstundenplanung-spiele/images/poweredby_mediawiki_88x31.png
+URL: http://www.pik8.at/w/skins/common/images/poweredby_mediawiki_88x31.png
+Alt-Text: Powered by MediaWiki
+
+Datei: /media/psf/development/web-crawler/collection/gusp_pik8-wiki-heimstundenplanung-spiele/images/piwik.php
+URL: http://www.pik8.at/piwik/piwik.php?idsite=1
+
+Quelle: http://www.pik8.at/wiki/PIK8:Mitarbeit/

@@ -85,3 +85,4 @@ data/google_drive/*
 # Temporary files
 tmp/
 temp/
+package-lock.json

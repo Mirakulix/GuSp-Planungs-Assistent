@@ -3,7 +3,8 @@ Configuration settings for the Pfadi AI Assistant application.
 """
 
 from typing import List, Optional
-from pydantic import BaseSettings, AnyHttpUrl, validator
+from pydantic import AnyHttpUrl, validator
+from pydantic_settings import BaseSettings
 import os
 from pathlib import Path
 

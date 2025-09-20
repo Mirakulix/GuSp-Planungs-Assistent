@@ -2,12 +2,16 @@
 Game search and management endpoints.
 """
 
+import time
 from typing import List, Optional
 from fastapi import APIRouter, HTTPException, Query
 from pydantic import BaseModel
+import structlog
 
 from app.core.config import settings
+from app.services.game_search import game_search_service
 
+logger = structlog.get_logger()
 router = APIRouter()
 
 
@@ -35,94 +39,98 @@ class Game(BaseModel):
     pedagogicalValue: str
     sourceUrl: Optional[str] = None
     rating: Optional[float] = None
+    semantic_score: Optional[float] = None
+    search_score: Optional[float] = None
 
 
 class GameSearchResponse(BaseModel):
     games: List[Game]
     total_found: int
     query_time_ms: int
+    search_type: str
+    azure_openai_used: bool
 
 
 @router.get("/search", response_model=GameSearchResponse)
 async def search_games(
-    q: Optional[str] = Query(None, description="Search query"),
+    q: Optional[str] = Query(None, description="Search query for semantic search"),
     duration_max: Optional[int] = Query(None, description="Maximum duration in minutes"),
     participant_count: Optional[int] = Query(None, description="Number of participants"),
     location: Optional[str] = Query(None, description="indoor, outdoor, or both"),
     age_group: Optional[str] = Query("10-13", description="Age group"),
     tags: Optional[str] = Query(None, description="Comma-separated tags"),
+    semantic: bool = Query(True, description="Use semantic search with Azure OpenAI"),
     limit: int = Query(10, ge=1, le=50, description="Number of results to return")
 ):
-    """Search for games with various filters."""
+    """Search for games using advanced semantic search and filtering."""
     
     if not settings.ENABLE_GAME_SEARCH:
         raise HTTPException(status_code=501, detail="Game search feature is disabled")
+    
+    start_time = time.time()
     
     # Parse tags if provided
     tag_list = None
     if tags:
         tag_list = [tag.strip() for tag in tags.split(",")]
     
-    filters = GameFilters(
+    logger.info(
+        "Processing game search request",
         query=q,
-        duration_max=duration_max,
-        participant_count=participant_count,
-        location=location,
-        age_group=age_group,
-        tags=tag_list
+        semantic_enabled=semantic,
+        filters={
+            "duration_max": duration_max,
+            "participant_count": participant_count,
+            "location": location,
+            "tags": tag_list
+        }
     )
     
-    # TODO: Implement actual search logic
-    # For now, return mock data
-    mock_games = [
-        Game(
-            gameId="game_001",
-            name="Vertrauenskreis",
-            description="Die Teilnehmer stehen im Kreis und lassen sich rückwärts fallen, vertrauen darauf, dass sie aufgefangen werden.",
-            materials=["Keine besonderen Materialien"],
-            durationMinutes=15,
-            minParticipants=8,
-            maxParticipants=15,
-            ageGroup="10-13",
-            location="both",
-            weatherDependency="low",
-            tags=["vertrauen", "teambuilding", "kreis"],
-            pedagogicalValue="Fördert Vertrauen und Gruppenzusammenhalt",
-            rating=4.2
-        ),
-        Game(
-            gameId="game_002", 
-            name="Capture the Flag",
-            description="Zwei Teams versuchen die Fahne des anderen Teams zu erobern und in ihr eigenes Territorium zu bringen.",
-            materials=["2 Fahnen", "Markierungen für Spielfeld"],
-            durationMinutes=30,
-            minParticipants=10,
-            maxParticipants=20,
-            ageGroup="10-13",
-            location="outdoor",
-            weatherDependency="medium",
-            tags=["strategie", "team", "bewegung", "wettkampf"],
-            pedagogicalValue="Fördert strategisches Denken und Teamwork",
-            rating=4.7
+    try:
+        # Use our game search service
+        search_result = await game_search_service.search_games(
+            query=q,
+            duration_max=duration_max,
+            participant_count=participant_count,
+            location=location,
+            age_group=age_group,
+            tags=tag_list,
+            use_semantic_search=semantic,
+            limit=limit
         )
-    ]
-    
-    # Filter mock games based on criteria
-    filtered_games = []
-    for game in mock_games:
-        if filters.duration_max and game.durationMinutes > filters.duration_max:
-            continue
-        if filters.participant_count and (
-            game.minParticipants > filters.participant_count or 
-            game.maxParticipants < filters.participant_count
-        ):
-            continue
-        if filters.location and filters.location != "both" and game.location != "both" and game.location != filters.location:
-            continue
-        if filters.query and filters.query.lower() not in game.name.lower() and filters.query.lower() not in game.description.lower():
-            continue
         
-        filtered_games.append(game)
+        # Convert to Game objects
+        games = []
+        for game_data in search_result["games"]:
+            # Remove embedding from response
+            game_dict = {k: v for k, v in game_data.items() if k != "embedding"}
+            games.append(Game(**game_dict))
+        
+        query_time_ms = int((time.time() - start_time) * 1000)
+        
+        logger.info(
+            "Game search completed",
+            results_count=len(games),
+            query_time_ms=query_time_ms,
+            search_type=search_result["search_type"]
+        )
+        
+        from app.services.azure_openai import azure_openai_service
+        
+        return GameSearchResponse(
+            games=games,
+            total_found=search_result["total_found"],
+            query_time_ms=query_time_ms,
+            search_type=search_result["search_type"],
+            azure_openai_used=azure_openai_service.is_available() and semantic
+        )
+        
+    except Exception as e:
+        logger.error("Error during game search", error=str(e))
+        raise HTTPException(
+            status_code=500,
+            detail="Fehler bei der Spielesuche. Bitte versuche es erneut."
+        )
     
     return GameSearchResponse(
         games=filtered_games[:limit],

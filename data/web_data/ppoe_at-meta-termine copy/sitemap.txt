@@ -1,0 +1,11 @@
+SITEMAP für https://ppoe.at/meta/termine
+==================================================
+
+meta/
+  termine/
+    → https://ppoe.at/meta/termine/
+
+
+Alle URLs:
+--------------------
+https://ppoe.at/meta/termine/

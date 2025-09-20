@@ -1,0 +1,78 @@
+Titel: PIK8 Diskussion:Mitarbeit – PIK8
+URL: http://www.pik8.at/wiki/PIK8_Diskussion:Mitarbeit/
+Zeitpunkt: 2025-09-20 00:18:32
+==================================================
+
+Tag oder Kategorie Was ist der unterschied zwischen einem Tag und einer Kategorie? -- Dpfahler ( Diskussion ) 15:32, 28. Jan. 2017 (CET)---- Servus David! Derzeit keinen. Im aktuellen Stand werden Tags automatisch in (gleichnamige) Kategorien eingeordnet. Langfristig ermöglichst uns die Vorlage:Tag allerdings, "mehr" daraus zu machen - also Logos einzubinden, schon im Artikel (ohne den Umweg über die Kategorie) "weitere Artikel mit diesem Tag" anzuzeigen, etc. Derzeit werden eigentlich nur der Aktivitätstyp (Heimstunde, Abenteuer, Programmidee, etc.) sowie der Schwerpunkt als Kategorie eingefügt - alles andere ist ein Tag. -- Wirthi ( Diskussion ) 18:45, 28. Jan. 2017 (CET) Kleine Ergänzung: ich hab deine Änderung im Artikel Baden Powell Rückgängig gemacht. Grund dafür ist hier der Spezialfall, dass der Artikel Baden Powell der "Hauptartikel" der Kategorie:Baden-Powell ist. Er soll in der alphabetischen Sortierung ganz vorne stehen (und nicht erst unter "B"). Das geht derzeit nur über via [[Kategorie:Baden-Powell| ]], nicht aber als Tag. -- Wirthi ( Diskussion ) 18:50, 28. Jan. 2017 (CET) Danke! -- Dpfahler ( Diskussion ) 10:01, 29. Jan. 2017 (CET)
+
+LINKS:
+----------
+[Navigation|http://www.pik8.at/wiki/PIK8_Diskussion:Mitarbeit/]
+[Suche|http://www.pik8.at/wiki/PIK8_Diskussion:Mitarbeit/]
+[Dpfahler|http://www.pik8.at/wiki/Benutzer:Dpfahler/]
+[Diskussion|http://www.pik8.at/wiki/Benutzer_Diskussion:Dpfahler/]
+[Vorlage:Tag|http://www.pik8.at/wiki/Vorlage:Tag/]
+[Wirthi|http://www.pik8.at/wiki/Benutzer:Wirthi/]
+[Diskussion|http://www.pik8.at/w/index.php?title=Benutzer_Diskussion:Wirthi&action=edit&redlink=1]
+[Baden Powell|http://www.pik8.at/wiki/Baden_Powell/]
+[Baden Powell|http://www.pik8.at/wiki/Baden_Powell/]
+[Kategorie:Baden-Powell|http://www.pik8.at/wiki/Kategorie:Baden-Powell/]
+[Wirthi|http://www.pik8.at/wiki/Benutzer:Wirthi/]
+[Diskussion|http://www.pik8.at/w/index.php?title=Benutzer_Diskussion:Wirthi&action=edit&redlink=1]
+[Dpfahler|http://www.pik8.at/wiki/Benutzer:Dpfahler/]
+[Diskussion|http://www.pik8.at/wiki/Benutzer_Diskussion:Dpfahler/]
+[http://www.pik8.at/w/index.php?title=PIK8_Diskussion:Mitarbeit&oldid=2323|http://www.pik8.at/w/index.php?title=PIK8_Diskussion:Mitarbeit&oldid=2323]
+[89.144.220.177|http://www.pik8.at/wiki/Benutzer:89.144.220.177/]
+[Diskussionsseite dieser IP|http://www.pik8.at/wiki/Benutzer_Diskussion:89.144.220.177/]
+[Benutzerkonto erstellen|http://www.pik8.at/w/index.php?title=Spezial:Anmelden&returnto=PIK8+Diskussion%3AMitarbeit&type=signup]
+[Anmelden|http://www.pik8.at/w/index.php?title=Spezial:Anmelden&returnto=PIK8+Diskussion%3AMitarbeit]
+[Projektseite|http://www.pik8.at/wiki/PIK8:Mitarbeit/]
+[Diskussion|http://www.pik8.at/wiki/PIK8_Diskussion:Mitarbeit/]
+[#|http://www.pik8.at/wiki/PIK8_Diskussion:Mitarbeit/]
+[Lesen|http://www.pik8.at/wiki/PIK8_Diskussion:Mitarbeit/]
+[Quelltext anzeigen|http://www.pik8.at/w/index.php?title=PIK8_Diskussion:Mitarbeit&action=edit]
+[Versionsgeschichte|http://www.pik8.at/w/index.php?title=PIK8_Diskussion:Mitarbeit&action=history]
+[#|http://www.pik8.at/wiki/PIK8_Diskussion:Mitarbeit/]
+[/wiki/Hauptseite/|http://www.pik8.at/wiki/Hauptseite/]
+[Hauptseite|http://www.pik8.at/wiki/Hauptseite/]
+[Letzte Änderungen|http://www.pik8.at/wiki/Spezial:Letzte_%C3%84nderungen/]
+[Zufällige Seite|http://www.pik8.at/wiki/Spezial:Zuf%C3%A4llige_Seite/]
+[Heimstunde|http://www.pik8.at/wiki/Heimstunde/]
+[Abenteuer|http://www.pik8.at/wiki/Abenteuer/]
+[Wettbewerb|http://www.pik8.at/wiki/Wettbewerb/]
+[Programmidee|http://www.pik8.at/wiki/Programmidee/]
+[Spirituelles Leben|http://www.pik8.at/wiki/Spirituelles_Leben/]
+[Verantwortungsbewusstes Leben in der Gemeinschaft|http://www.pik8.at/wiki/Verantwortungsbewusstes_Leben_in_der_Gemeinschaft/]
+[Weltweite Verbundenheit|http://www.pik8.at/wiki/Weltweite_Verbundenheit/]
+[Kritisches Auseinandersetzen mit sich selbst und der Umwelt|http://www.pik8.at/wiki/Kritisches_Auseinandersetzen_mit_sich_selbst_und_der_Umwelt/]
+[Einfaches und naturverbundenes Leben|http://www.pik8.at/wiki/Einfaches_und_naturverbundenes_Leben/]
+[Bereitschaft zum Abenteuer des Lebens|http://www.pik8.at/wiki/Bereitschaft_zum_Abenteuer_des_Lebens/]
+[Schöpferisches Tun|http://www.pik8.at/wiki/Sch%C3%B6pferisches_Tun/]
+[Körperbewusstsein und gesundes Leben|http://www.pik8.at/wiki/K%C3%B6rperbewusstsein_und_gesundes_Leben/]
+[Links auf diese Seite|http://www.pik8.at/wiki/Spezial:Linkliste/PIK8_Diskussion:Mitarbeit/]
+[Änderungen an verlinkten Seiten|http://www.pik8.at/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/PIK8_Diskussion:Mitarbeit/]
+[Spezialseiten|http://www.pik8.at/wiki/Spezial:Spezialseiten/]
+[Druckversion|http://www.pik8.at/w/index.php?title=PIK8_Diskussion:Mitarbeit&printable=yes]
+[Permanenter Link|http://www.pik8.at/w/index.php?title=PIK8_Diskussion:Mitarbeit&oldid=2323]
+[Seiteninformationen|http://www.pik8.at/w/index.php?title=PIK8_Diskussion:Mitarbeit&action=info]
+[Creative Commons „Namensnennung, Weitergabe unter gleichen Bedingungen“|http://creativecommons.org/licenses/by-sa/3.0/]
+[Datenschutz|http://www.pik8.at/wiki/PIK8:Datenschutz/]
+[Über PIK8|http://www.pik8.at/wiki/PIK8:%C3%9Cber_PIK8/]
+[Impressum|http://www.pik8.at/wiki/PIK8:Impressum/]
+[http://creativecommons.org/licenses/by-sa/3.0/|http://creativecommons.org/licenses/by-sa/3.0/]
+[//www.mediawiki.org/|http://www.mediawiki.org/]
+
+BILDER-VERZEICHNIS:
+--------------------
+Datei: /media/psf/development/web-crawler/collection/gusp_pik8-wiki-heimstundenplanung-spiele/images/cc-by-sa.png
+URL: http://www.pik8.at/w/skins/common/images/cc-by-sa.png
+Alt-Text: Creative Commons „Namensnennung, Weitergabe unter gleichen Bedingungen“
+
+Datei: /media/psf/development/web-crawler/collection/gusp_pik8-wiki-heimstundenplanung-spiele/images/poweredby_mediawiki_88x31.png
+URL: http://www.pik8.at/w/skins/common/images/poweredby_mediawiki_88x31.png
+Alt-Text: Powered by MediaWiki
+
+Datei: /media/psf/development/web-crawler/collection/gusp_pik8-wiki-heimstundenplanung-spiele/images/piwik.php
+URL: http://www.pik8.at/piwik/piwik.php?idsite=1
+
+Quelle: http://www.pik8.at/wiki/PIK8_Diskussion:Mitarbeit/

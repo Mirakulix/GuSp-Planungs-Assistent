@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   backend:
     build: 
@@ -12,8 +10,15 @@ services:
       - DATABASE_URL=sqlite:///./pfadi_assistant.db
       - AZURE_OPENAI_ENDPOINT=${AZURE_OPENAI_ENDPOINT}
       - AZURE_OPENAI_API_KEY=${AZURE_OPENAI_API_KEY}
+      - AZURE_OPENAI_DEPLOYMENT_NAME=${AZURE_OPENAI_DEPLOYMENT_NAME}
+      - AZURE_EMBEDDING_DEPLOYMENT_NAME=${AZURE_EMBEDDING_DEPLOYMENT_NAME}
       - AZURE_SEARCH_ENDPOINT=${AZURE_SEARCH_ENDPOINT}
       - AZURE_SEARCH_API_KEY=${AZURE_SEARCH_API_KEY}
+      - SECRET_KEY=${SECRET_KEY:-your-super-secret-key-change-in-production}
+      - DEBUG=${DEBUG:-true}
+      - ENABLE_CHATBOT=${ENABLE_CHATBOT:-true}
+    env_file:
+      - .env
     volumes:
       - ./backend:/app
       - ./data:/app/data
